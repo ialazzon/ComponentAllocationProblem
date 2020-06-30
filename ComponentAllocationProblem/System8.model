@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ASCII"?>
+<componentAllocation:AllocationProblem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:componentAllocation="http://www.example.org/componentAllocation" xmi:id="_vBM28H7zEeqI85sOaP-reA" ID="System8">
+  <components xmi:id="comp0" compName="0" resConsumptions="resCon-0-0 resCon-0-1 resCon-0-2 resCon-0-3 resCon-0-4 resCon-0-5 resCon-0-6 resCon-0-7 resCon-0-8 resCon-0-9 resCon-0-10 resCon-0-11 resCon-0-12 resCon-0-13 resCon-0-14 resCon-0-15"/>
+  <components xmi:id="comp1" compName="1" resConsumptions="resCon-1-0 resCon-1-1 resCon-1-2 resCon-1-3 resCon-1-4 resCon-1-5 resCon-1-6 resCon-1-7 resCon-1-8 resCon-1-9 resCon-1-10 resCon-1-11 resCon-1-12 resCon-1-13 resCon-1-14 resCon-1-15"/>
+  <components xmi:id="comp2" compName="2" resConsumptions="resCon-2-0 resCon-2-1 resCon-2-2 resCon-2-3 resCon-2-4 resCon-2-5 resCon-2-6 resCon-2-7 resCon-2-8 resCon-2-9 resCon-2-10 resCon-2-11 resCon-2-12 resCon-2-13 resCon-2-14 resCon-2-15"/>
+  <components xmi:id="comp3" compName="3" resConsumptions="resCon-3-0 resCon-3-1 resCon-3-2 resCon-3-3 resCon-3-4 resCon-3-5 resCon-3-6 resCon-3-7 resCon-3-8 resCon-3-9 resCon-3-10 resCon-3-11 resCon-3-12 resCon-3-13 resCon-3-14 resCon-3-15"/>
+  <components xmi:id="comp4" compName="4" resConsumptions="resCon-4-0 resCon-4-1 resCon-4-2 resCon-4-3 resCon-4-4 resCon-4-5 resCon-4-6 resCon-4-7 resCon-4-8 resCon-4-9 resCon-4-10 resCon-4-11 resCon-4-12 resCon-4-13 resCon-4-14 resCon-4-15"/>
+  <components xmi:id="comp5" compName="5" resConsumptions="resCon-5-0 resCon-5-1 resCon-5-2 resCon-5-3 resCon-5-4 resCon-5-5 resCon-5-6 resCon-5-7 resCon-5-8 resCon-5-9 resCon-5-10 resCon-5-11 resCon-5-12 resCon-5-13 resCon-5-14 resCon-5-15"/>
+  <components xmi:id="comp6" compName="6" resConsumptions="resCon-6-0 resCon-6-1 resCon-6-2 resCon-6-3 resCon-6-4 resCon-6-5 resCon-6-6 resCon-6-7 resCon-6-8 resCon-6-9 resCon-6-10 resCon-6-11 resCon-6-12 resCon-6-13 resCon-6-14 resCon-6-15"/>
+  <components xmi:id="comp7" compName="7" resConsumptions="resCon-7-0 resCon-7-1 resCon-7-2 resCon-7-3 resCon-7-4 resCon-7-5 resCon-7-6 resCon-7-7 resCon-7-8 resCon-7-9 resCon-7-10 resCon-7-11 resCon-7-12 resCon-7-13 resCon-7-14 resCon-7-15"/>
+  <components xmi:id="comp8" compName="8" resConsumptions="resCon-8-0 resCon-8-1 resCon-8-2 resCon-8-3 resCon-8-4 resCon-8-5 resCon-8-6 resCon-8-7 resCon-8-8 resCon-8-9 resCon-8-10 resCon-8-11 resCon-8-12 resCon-8-13 resCon-8-14 resCon-8-15"/>
+  <components xmi:id="comp9" compName="9" resConsumptions="resCon-9-0 resCon-9-1 resCon-9-2 resCon-9-3 resCon-9-4 resCon-9-5 resCon-9-6 resCon-9-7 resCon-9-8 resCon-9-9 resCon-9-10 resCon-9-11 resCon-9-12 resCon-9-13 resCon-9-14 resCon-9-15"/>
+  <components xmi:id="comp10" compName="10" resConsumptions="resCon-10-0 resCon-10-1 resCon-10-2 resCon-10-3 resCon-10-4 resCon-10-5 resCon-10-6 resCon-10-7 resCon-10-8 resCon-10-9 resCon-10-10 resCon-10-11 resCon-10-12 resCon-10-13 resCon-10-14 resCon-10-15"/>
+  <components xmi:id="comp11" compName="11" resConsumptions="resCon-11-0 resCon-11-1 resCon-11-2 resCon-11-3 resCon-11-4 resCon-11-5 resCon-11-6 resCon-11-7 resCon-11-8 resCon-11-9 resCon-11-10 resCon-11-11 resCon-11-12 resCon-11-13 resCon-11-14 resCon-11-15"/>
+  <components xmi:id="comp12" compName="12" resConsumptions="resCon-12-0 resCon-12-1 resCon-12-2 resCon-12-3 resCon-12-4 resCon-12-5 resCon-12-6 resCon-12-7 resCon-12-8 resCon-12-9 resCon-12-10 resCon-12-11 resCon-12-12 resCon-12-13 resCon-12-14 resCon-12-15"/>
+  <components xmi:id="comp13" compName="13" resConsumptions="resCon-13-0 resCon-13-1 resCon-13-2 resCon-13-3 resCon-13-4 resCon-13-5 resCon-13-6 resCon-13-7 resCon-13-8 resCon-13-9 resCon-13-10 resCon-13-11 resCon-13-12 resCon-13-13 resCon-13-14 resCon-13-15"/>
+  <components xmi:id="comp14" compName="14" resConsumptions="resCon-14-0 resCon-14-1 resCon-14-2 resCon-14-3 resCon-14-4 resCon-14-5 resCon-14-6 resCon-14-7 resCon-14-8 resCon-14-9 resCon-14-10 resCon-14-11 resCon-14-12 resCon-14-13 resCon-14-14 resCon-14-15"/>
+  <components xmi:id="comp15" compName="15" resConsumptions="resCon-15-0 resCon-15-1 resCon-15-2 resCon-15-3 resCon-15-4 resCon-15-5 resCon-15-6 resCon-15-7 resCon-15-8 resCon-15-9 resCon-15-10 resCon-15-11 resCon-15-12 resCon-15-13 resCon-15-14 resCon-15-15"/>
+  <components xmi:id="comp16" compName="16" resConsumptions="resCon-16-0 resCon-16-1 resCon-16-2 resCon-16-3 resCon-16-4 resCon-16-5 resCon-16-6 resCon-16-7 resCon-16-8 resCon-16-9 resCon-16-10 resCon-16-11 resCon-16-12 resCon-16-13 resCon-16-14 resCon-16-15"/>
+  <components xmi:id="comp17" compName="17" resConsumptions="resCon-17-0 resCon-17-1 resCon-17-2 resCon-17-3 resCon-17-4 resCon-17-5 resCon-17-6 resCon-17-7 resCon-17-8 resCon-17-9 resCon-17-10 resCon-17-11 resCon-17-12 resCon-17-13 resCon-17-14 resCon-17-15"/>
+  <components xmi:id="comp18" compName="18" resConsumptions="resCon-18-0 resCon-18-1 resCon-18-2 resCon-18-3 resCon-18-4 resCon-18-5 resCon-18-6 resCon-18-7 resCon-18-8 resCon-18-9 resCon-18-10 resCon-18-11 resCon-18-12 resCon-18-13 resCon-18-14 resCon-18-15"/>
+  <components xmi:id="comp19" compName="19" resConsumptions="resCon-19-0 resCon-19-1 resCon-19-2 resCon-19-3 resCon-19-4 resCon-19-5 resCon-19-6 resCon-19-7 resCon-19-8 resCon-19-9 resCon-19-10 resCon-19-11 resCon-19-12 resCon-19-13 resCon-19-14 resCon-19-15"/>
+  <components xmi:id="comp20" compName="20" resConsumptions="resCon-20-0 resCon-20-1 resCon-20-2 resCon-20-3 resCon-20-4 resCon-20-5 resCon-20-6 resCon-20-7 resCon-20-8 resCon-20-9 resCon-20-10 resCon-20-11 resCon-20-12 resCon-20-13 resCon-20-14 resCon-20-15"/>
+  <components xmi:id="comp21" compName="21" resConsumptions="resCon-21-0 resCon-21-1 resCon-21-2 resCon-21-3 resCon-21-4 resCon-21-5 resCon-21-6 resCon-21-7 resCon-21-8 resCon-21-9 resCon-21-10 resCon-21-11 resCon-21-12 resCon-21-13 resCon-21-14 resCon-21-15"/>
+  <tradeOffvector xmi:id="tov0" cpuFactor="0.1557" memoryFactor="0.0856" powerFactor="0.7095"/>
+  <compUnits xmi:id="compUnit0" cpuAvail="100.0" memAvailable="256.0" powerAvail="50.0" compUnitName="0" resConsumptions="resCon-0-0 resCon-1-0 resCon-2-0 resCon-3-0 resCon-4-0 resCon-5-0 resCon-6-0 resCon-7-0 resCon-8-0 resCon-9-0 resCon-10-0 resCon-11-0 resCon-12-0 resCon-13-0 resCon-14-0 resCon-15-0 resCon-16-0 resCon-17-0 resCon-18-0 resCon-19-0 resCon-20-0 resCon-21-0"/>
+  <compUnits xmi:id="compUnit1" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="1" resConsumptions="resCon-0-1 resCon-1-1 resCon-2-1 resCon-3-1 resCon-4-1 resCon-5-1 resCon-6-1 resCon-7-1 resCon-8-1 resCon-9-1 resCon-10-1 resCon-11-1 resCon-12-1 resCon-13-1 resCon-14-1 resCon-15-1 resCon-16-1 resCon-17-1 resCon-18-1 resCon-19-1 resCon-20-1 resCon-21-1"/>
+  <compUnits xmi:id="compUnit2" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="2" resConsumptions="resCon-0-2 resCon-1-2 resCon-2-2 resCon-3-2 resCon-4-2 resCon-5-2 resCon-6-2 resCon-7-2 resCon-8-2 resCon-9-2 resCon-10-2 resCon-11-2 resCon-12-2 resCon-13-2 resCon-14-2 resCon-15-2 resCon-16-2 resCon-17-2 resCon-18-2 resCon-19-2 resCon-20-2 resCon-21-2"/>
+  <compUnits xmi:id="compUnit3" cpuAvail="100.0" memAvailable="256.0" powerAvail="15.0" compUnitName="3" resConsumptions="resCon-0-3 resCon-1-3 resCon-2-3 resCon-3-3 resCon-4-3 resCon-5-3 resCon-6-3 resCon-7-3 resCon-8-3 resCon-9-3 resCon-10-3 resCon-11-3 resCon-12-3 resCon-13-3 resCon-14-3 resCon-15-3 resCon-16-3 resCon-17-3 resCon-18-3 resCon-19-3 resCon-20-3 resCon-21-3"/>
+  <compUnits xmi:id="compUnit4" cpuAvail="100.0" memAvailable="256.0" powerAvail="50.0" compUnitName="4" resConsumptions="resCon-0-4 resCon-1-4 resCon-2-4 resCon-3-4 resCon-4-4 resCon-5-4 resCon-6-4 resCon-7-4 resCon-8-4 resCon-9-4 resCon-10-4 resCon-11-4 resCon-12-4 resCon-13-4 resCon-14-4 resCon-15-4 resCon-16-4 resCon-17-4 resCon-18-4 resCon-19-4 resCon-20-4 resCon-21-4"/>
+  <compUnits xmi:id="compUnit5" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="5" resConsumptions="resCon-0-5 resCon-1-5 resCon-2-5 resCon-3-5 resCon-4-5 resCon-5-5 resCon-6-5 resCon-7-5 resCon-8-5 resCon-9-5 resCon-10-5 resCon-11-5 resCon-12-5 resCon-13-5 resCon-14-5 resCon-15-5 resCon-16-5 resCon-17-5 resCon-18-5 resCon-19-5 resCon-20-5 resCon-21-5"/>
+  <compUnits xmi:id="compUnit6" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="6" resConsumptions="resCon-0-6 resCon-1-6 resCon-2-6 resCon-3-6 resCon-4-6 resCon-5-6 resCon-6-6 resCon-7-6 resCon-8-6 resCon-9-6 resCon-10-6 resCon-11-6 resCon-12-6 resCon-13-6 resCon-14-6 resCon-15-6 resCon-16-6 resCon-17-6 resCon-18-6 resCon-19-6 resCon-20-6 resCon-21-6"/>
+  <compUnits xmi:id="compUnit7" cpuAvail="100.0" memAvailable="256.0" powerAvail="15.0" compUnitName="7" resConsumptions="resCon-0-7 resCon-1-7 resCon-2-7 resCon-3-7 resCon-4-7 resCon-5-7 resCon-6-7 resCon-7-7 resCon-8-7 resCon-9-7 resCon-10-7 resCon-11-7 resCon-12-7 resCon-13-7 resCon-14-7 resCon-15-7 resCon-16-7 resCon-17-7 resCon-18-7 resCon-19-7 resCon-20-7 resCon-21-7"/>
+  <compUnits xmi:id="compUnit8" cpuAvail="100.0" memAvailable="256.0" powerAvail="50.0" compUnitName="8" resConsumptions="resCon-0-8 resCon-1-8 resCon-2-8 resCon-3-8 resCon-4-8 resCon-5-8 resCon-6-8 resCon-7-8 resCon-8-8 resCon-9-8 resCon-10-8 resCon-11-8 resCon-12-8 resCon-13-8 resCon-14-8 resCon-15-8 resCon-16-8 resCon-17-8 resCon-18-8 resCon-19-8 resCon-20-8 resCon-21-8"/>
+  <compUnits xmi:id="compUnit9" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="9" resConsumptions="resCon-0-9 resCon-1-9 resCon-2-9 resCon-3-9 resCon-4-9 resCon-5-9 resCon-6-9 resCon-7-9 resCon-8-9 resCon-9-9 resCon-10-9 resCon-11-9 resCon-12-9 resCon-13-9 resCon-14-9 resCon-15-9 resCon-16-9 resCon-17-9 resCon-18-9 resCon-19-9 resCon-20-9 resCon-21-9"/>
+  <compUnits xmi:id="compUnit10" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="10" resConsumptions="resCon-0-10 resCon-1-10 resCon-2-10 resCon-3-10 resCon-4-10 resCon-5-10 resCon-6-10 resCon-7-10 resCon-8-10 resCon-9-10 resCon-10-10 resCon-11-10 resCon-12-10 resCon-13-10 resCon-14-10 resCon-15-10 resCon-16-10 resCon-17-10 resCon-18-10 resCon-19-10 resCon-20-10 resCon-21-10"/>
+  <compUnits xmi:id="compUnit11" cpuAvail="100.0" memAvailable="256.0" powerAvail="15.0" compUnitName="11" resConsumptions="resCon-0-11 resCon-1-11 resCon-2-11 resCon-3-11 resCon-4-11 resCon-5-11 resCon-6-11 resCon-7-11 resCon-8-11 resCon-9-11 resCon-10-11 resCon-11-11 resCon-12-11 resCon-13-11 resCon-14-11 resCon-15-11 resCon-16-11 resCon-17-11 resCon-18-11 resCon-19-11 resCon-20-11 resCon-21-11"/>
+  <compUnits xmi:id="compUnit12" cpuAvail="100.0" memAvailable="256.0" powerAvail="50.0" compUnitName="12" resConsumptions="resCon-0-12 resCon-1-12 resCon-2-12 resCon-3-12 resCon-4-12 resCon-5-12 resCon-6-12 resCon-7-12 resCon-8-12 resCon-9-12 resCon-10-12 resCon-11-12 resCon-12-12 resCon-13-12 resCon-14-12 resCon-15-12 resCon-16-12 resCon-17-12 resCon-18-12 resCon-19-12 resCon-20-12 resCon-21-12"/>
+  <compUnits xmi:id="compUnit13" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="13" resConsumptions="resCon-0-13 resCon-1-13 resCon-2-13 resCon-3-13 resCon-4-13 resCon-5-13 resCon-6-13 resCon-7-13 resCon-8-13 resCon-9-13 resCon-10-13 resCon-11-13 resCon-12-13 resCon-13-13 resCon-14-13 resCon-15-13 resCon-16-13 resCon-17-13 resCon-18-13 resCon-19-13 resCon-20-13 resCon-21-13"/>
+  <compUnits xmi:id="compUnit14" cpuAvail="150.0" memAvailable="640.0" powerAvail="25.0" compUnitName="14" resConsumptions="resCon-0-14 resCon-1-14 resCon-2-14 resCon-3-14 resCon-4-14 resCon-5-14 resCon-6-14 resCon-7-14 resCon-8-14 resCon-9-14 resCon-10-14 resCon-11-14 resCon-12-14 resCon-13-14 resCon-14-14 resCon-15-14 resCon-16-14 resCon-17-14 resCon-18-14 resCon-19-14 resCon-20-14 resCon-21-14"/>
+  <compUnits xmi:id="compUnit15" cpuAvail="100.0" memAvailable="256.0" powerAvail="15.0" compUnitName="15" resConsumptions="resCon-0-15 resCon-1-15 resCon-2-15 resCon-3-15 resCon-4-15 resCon-5-15 resCon-6-15 resCon-7-15 resCon-8-15 resCon-9-15 resCon-10-15 resCon-11-15 resCon-12-15 resCon-13-15 resCon-14-15 resCon-15-15 resCon-16-15 resCon-17-15 resCon-18-15 resCon-19-15 resCon-20-15 resCon-21-15"/>
+  <allocationConstraints xmi:id="allocCons1" component="comp6" compUnit="compUnit3"/>
+  <antiAllocationConstraints xmi:id="antiAllocCons2" compUnit="compUnit0" component="comp3"/>
+  <resConsumptions xmi:id="resCon-0-0" cpuCons="50.0" memoryCons="148.0" powerCons="4.0" component="comp0" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-0-1" cpuCons="10.0" memoryCons="64.0" powerCons="4.0" component="comp0" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-0-2" cpuCons="50.0" memoryCons="148.0" powerCons="14.0" component="comp0" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-0-3" cpuCons="40.0" memoryCons="64.0" powerCons="2.0" component="comp0" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-0-4" cpuCons="15.0" memoryCons="168.0" powerCons="4.0" component="comp0" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-0-5" cpuCons="10.0" memoryCons="168.0" powerCons="8.0" component="comp0" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-0-6" cpuCons="90.0" memoryCons="32.0" powerCons="4.0" component="comp0" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-0-7" cpuCons="72.0" memoryCons="96.0" powerCons="14.0" component="comp0" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-0-8" cpuCons="10.0" memoryCons="32.0" powerCons="18.0" component="comp0" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-0-9" cpuCons="10.0" memoryCons="96.0" powerCons="14.0" component="comp0" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-0-10" cpuCons="70.0" memoryCons="32.0" powerCons="14.0" component="comp0" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-0-11" cpuCons="40.0" memoryCons="32.0" powerCons="18.0" component="comp0" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-0-12" cpuCons="15.0" memoryCons="96.0" powerCons="8.0" component="comp0" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-0-13" cpuCons="33.0" memoryCons="256.0" powerCons="7.0" component="comp0" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-0-14" cpuCons="72.0" memoryCons="168.0" powerCons="4.0" component="comp0" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-0-15" cpuCons="72.0" memoryCons="148.0" powerCons="14.0" component="comp0" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-1-0" cpuCons="50.0" memoryCons="148.0" powerCons="4.0" component="comp1" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-1-1" cpuCons="10.0" memoryCons="64.0" powerCons="4.0" component="comp1" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-1-2" cpuCons="50.0" memoryCons="148.0" powerCons="14.0" component="comp1" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-1-3" cpuCons="40.0" memoryCons="64.0" powerCons="2.0" component="comp1" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-1-4" cpuCons="15.0" memoryCons="168.0" powerCons="4.0" component="comp1" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-1-5" cpuCons="10.0" memoryCons="168.0" powerCons="8.0" component="comp1" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-1-6" cpuCons="90.0" memoryCons="32.0" powerCons="4.0" component="comp1" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-1-7" cpuCons="72.0" memoryCons="96.0" powerCons="14.0" component="comp1" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-1-8" cpuCons="10.0" memoryCons="32.0" powerCons="18.0" component="comp1" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-1-9" cpuCons="10.0" memoryCons="96.0" powerCons="14.0" component="comp1" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-1-10" cpuCons="70.0" memoryCons="32.0" powerCons="14.0" component="comp1" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-1-11" cpuCons="40.0" memoryCons="32.0" powerCons="18.0" component="comp1" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-1-12" cpuCons="15.0" memoryCons="96.0" powerCons="8.0" component="comp1" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-1-13" cpuCons="33.0" memoryCons="256.0" powerCons="7.0" component="comp1" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-1-14" cpuCons="72.0" memoryCons="168.0" powerCons="4.0" component="comp1" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-1-15" cpuCons="72.0" memoryCons="148.0" powerCons="14.0" component="comp1" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-2-0" cpuCons="20.0" memoryCons="96.0" powerCons="2.0" component="comp2" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-2-1" cpuCons="55.0" memoryCons="48.0" powerCons="14.0" component="comp2" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-2-2" cpuCons="15.0" memoryCons="148.0" powerCons="2.0" component="comp2" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-2-3" cpuCons="20.0" memoryCons="64.0" powerCons="10.0" component="comp2" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-2-4" cpuCons="40.0" memoryCons="148.0" powerCons="4.0" component="comp2" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-2-5" cpuCons="10.0" memoryCons="48.0" powerCons="10.0" component="comp2" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-2-6" cpuCons="20.0" memoryCons="256.0" powerCons="18.0" component="comp2" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-2-7" cpuCons="40.0" memoryCons="32.0" powerCons="18.0" component="comp2" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-2-8" cpuCons="15.0" memoryCons="32.0" powerCons="7.0" component="comp2" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-2-9" cpuCons="40.0" memoryCons="168.0" powerCons="14.0" component="comp2" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-2-10" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp2" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-2-11" cpuCons="20.0" memoryCons="148.0" powerCons="4.0" component="comp2" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-2-12" cpuCons="20.0" memoryCons="96.0" powerCons="4.0" component="comp2" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-2-13" cpuCons="20.0" memoryCons="256.0" powerCons="14.0" component="comp2" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-2-14" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp2" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-2-15" cpuCons="55.0" memoryCons="128.0" powerCons="14.0" component="comp2" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-3-0" cpuCons="20.0" memoryCons="96.0" powerCons="2.0" component="comp3" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-3-1" cpuCons="55.0" memoryCons="48.0" powerCons="14.0" component="comp3" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-3-2" cpuCons="15.0" memoryCons="148.0" powerCons="2.0" component="comp3" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-3-3" cpuCons="20.0" memoryCons="64.0" powerCons="10.0" component="comp3" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-3-4" cpuCons="40.0" memoryCons="148.0" powerCons="4.0" component="comp3" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-3-5" cpuCons="10.0" memoryCons="48.0" powerCons="10.0" component="comp3" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-3-6" cpuCons="20.0" memoryCons="256.0" powerCons="18.0" component="comp3" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-3-7" cpuCons="40.0" memoryCons="32.0" powerCons="18.0" component="comp3" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-3-8" cpuCons="15.0" memoryCons="32.0" powerCons="7.0" component="comp3" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-3-9" cpuCons="40.0" memoryCons="168.0" powerCons="14.0" component="comp3" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-3-10" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp3" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-3-11" cpuCons="20.0" memoryCons="148.0" powerCons="4.0" component="comp3" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-3-12" cpuCons="20.0" memoryCons="96.0" powerCons="4.0" component="comp3" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-3-13" cpuCons="20.0" memoryCons="256.0" powerCons="14.0" component="comp3" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-3-14" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp3" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-3-15" cpuCons="55.0" memoryCons="128.0" powerCons="14.0" component="comp3" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-4-0" cpuCons="33.0" memoryCons="148.0" powerCons="8.0" component="comp4" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-4-1" cpuCons="20.0" memoryCons="148.0" powerCons="8.0" component="comp4" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-4-2" cpuCons="70.0" memoryCons="168.0" powerCons="14.0" component="comp4" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-4-3" cpuCons="70.0" memoryCons="148.0" powerCons="8.0" component="comp4" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-4-4" cpuCons="10.0" memoryCons="256.0" powerCons="2.0" component="comp4" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-4-5" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp4" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-4-6" cpuCons="55.0" memoryCons="128.0" powerCons="14.0" component="comp4" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-4-7" cpuCons="70.0" memoryCons="64.0" powerCons="14.0" component="comp4" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-4-8" cpuCons="20.0" memoryCons="168.0" powerCons="4.0" component="comp4" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-4-9" cpuCons="55.0" memoryCons="148.0" powerCons="2.0" component="comp4" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-4-10" cpuCons="10.0" memoryCons="148.0" powerCons="4.0" component="comp4" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-4-11" cpuCons="20.0" memoryCons="48.0" powerCons="4.0" component="comp4" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-4-12" cpuCons="20.0" memoryCons="168.0" powerCons="6.0" component="comp4" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-4-13" cpuCons="40.0" memoryCons="32.0" powerCons="2.0" component="comp4" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-4-14" cpuCons="90.0" memoryCons="148.0" powerCons="4.0" component="comp4" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-4-15" cpuCons="20.0" memoryCons="256.0" powerCons="2.0" component="comp4" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-5-0" cpuCons="33.0" memoryCons="148.0" powerCons="8.0" component="comp5" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-5-1" cpuCons="20.0" memoryCons="148.0" powerCons="8.0" component="comp5" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-5-2" cpuCons="70.0" memoryCons="168.0" powerCons="14.0" component="comp5" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-5-3" cpuCons="70.0" memoryCons="148.0" powerCons="8.0" component="comp5" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-5-4" cpuCons="10.0" memoryCons="256.0" powerCons="2.0" component="comp5" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-5-5" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp5" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-5-6" cpuCons="55.0" memoryCons="128.0" powerCons="14.0" component="comp5" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-5-7" cpuCons="70.0" memoryCons="64.0" powerCons="14.0" component="comp5" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-5-8" cpuCons="20.0" memoryCons="168.0" powerCons="4.0" component="comp5" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-5-9" cpuCons="55.0" memoryCons="148.0" powerCons="2.0" component="comp5" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-5-10" cpuCons="10.0" memoryCons="148.0" powerCons="4.0" component="comp5" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-5-11" cpuCons="20.0" memoryCons="48.0" powerCons="4.0" component="comp5" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-5-12" cpuCons="20.0" memoryCons="168.0" powerCons="6.0" component="comp5" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-5-13" cpuCons="40.0" memoryCons="32.0" powerCons="2.0" component="comp5" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-5-14" cpuCons="90.0" memoryCons="148.0" powerCons="4.0" component="comp5" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-5-15" cpuCons="20.0" memoryCons="256.0" powerCons="2.0" component="comp5" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-6-0" cpuCons="20.0" memoryCons="128.0" powerCons="3.0" component="comp6" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-6-1" cpuCons="10.0" memoryCons="128.0" powerCons="14.0" component="comp6" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-6-2" cpuCons="20.0" memoryCons="128.0" powerCons="18.0" component="comp6" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-6-3" cpuCons="20.0" memoryCons="32.0" powerCons="14.0" component="comp6" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-6-4" cpuCons="30.0" memoryCons="168.0" powerCons="10.0" component="comp6" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-6-5" cpuCons="70.0" memoryCons="148.0" powerCons="8.0" component="comp6" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-6-6" cpuCons="20.0" memoryCons="48.0" powerCons="3.0" component="comp6" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-6-7" cpuCons="72.0" memoryCons="148.0" powerCons="3.0" component="comp6" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-6-8" cpuCons="50.0" memoryCons="148.0" powerCons="4.0" component="comp6" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-6-9" cpuCons="90.0" memoryCons="64.0" powerCons="14.0" component="comp6" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-6-10" cpuCons="20.0" memoryCons="256.0" powerCons="2.0" component="comp6" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-6-11" cpuCons="70.0" memoryCons="148.0" powerCons="14.0" component="comp6" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-6-12" cpuCons="70.0" memoryCons="168.0" powerCons="18.0" component="comp6" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-6-13" cpuCons="10.0" memoryCons="148.0" powerCons="3.0" component="comp6" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-6-14" cpuCons="40.0" memoryCons="168.0" powerCons="14.0" component="comp6" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-6-15" cpuCons="20.0" memoryCons="64.0" powerCons="11.0" component="comp6" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-7-0" cpuCons="20.0" memoryCons="128.0" powerCons="3.0" component="comp7" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-7-1" cpuCons="10.0" memoryCons="128.0" powerCons="14.0" component="comp7" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-7-2" cpuCons="20.0" memoryCons="128.0" powerCons="18.0" component="comp7" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-7-3" cpuCons="20.0" memoryCons="32.0" powerCons="14.0" component="comp7" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-7-4" cpuCons="30.0" memoryCons="168.0" powerCons="10.0" component="comp7" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-7-5" cpuCons="70.0" memoryCons="148.0" powerCons="8.0" component="comp7" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-7-6" cpuCons="20.0" memoryCons="48.0" powerCons="3.0" component="comp7" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-7-7" cpuCons="72.0" memoryCons="148.0" powerCons="3.0" component="comp7" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-7-8" cpuCons="50.0" memoryCons="148.0" powerCons="4.0" component="comp7" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-7-9" cpuCons="90.0" memoryCons="64.0" powerCons="14.0" component="comp7" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-7-10" cpuCons="20.0" memoryCons="256.0" powerCons="2.0" component="comp7" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-7-11" cpuCons="70.0" memoryCons="148.0" powerCons="14.0" component="comp7" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-7-12" cpuCons="70.0" memoryCons="168.0" powerCons="18.0" component="comp7" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-7-13" cpuCons="10.0" memoryCons="148.0" powerCons="3.0" component="comp7" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-7-14" cpuCons="40.0" memoryCons="168.0" powerCons="14.0" component="comp7" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-7-15" cpuCons="20.0" memoryCons="64.0" powerCons="11.0" component="comp7" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-8-0" cpuCons="10.0" memoryCons="32.0" powerCons="4.0" component="comp8" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-8-1" cpuCons="72.0" memoryCons="168.0" powerCons="2.0" component="comp8" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-8-2" cpuCons="70.0" memoryCons="256.0" powerCons="2.0" component="comp8" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-8-3" cpuCons="15.0" memoryCons="256.0" powerCons="18.0" component="comp8" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-8-4" cpuCons="72.0" memoryCons="148.0" powerCons="14.0" component="comp8" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-8-5" cpuCons="10.0" memoryCons="96.0" powerCons="14.0" component="comp8" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-8-6" cpuCons="10.0" memoryCons="148.0" powerCons="18.0" component="comp8" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-8-7" cpuCons="90.0" memoryCons="168.0" powerCons="2.0" component="comp8" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-8-8" cpuCons="20.0" memoryCons="64.0" powerCons="14.0" component="comp8" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-8-9" cpuCons="72.0" memoryCons="64.0" powerCons="10.0" component="comp8" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-8-10" cpuCons="72.0" memoryCons="128.0" powerCons="3.0" component="comp8" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-8-11" cpuCons="50.0" memoryCons="48.0" powerCons="2.0" component="comp8" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-8-12" cpuCons="90.0" memoryCons="32.0" powerCons="3.0" component="comp8" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-8-13" cpuCons="20.0" memoryCons="48.0" powerCons="8.0" component="comp8" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-8-14" cpuCons="90.0" memoryCons="64.0" powerCons="2.0" component="comp8" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-8-15" cpuCons="30.0" memoryCons="64.0" powerCons="2.0" component="comp8" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-9-0" cpuCons="10.0" memoryCons="32.0" powerCons="4.0" component="comp9" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-9-1" cpuCons="72.0" memoryCons="168.0" powerCons="2.0" component="comp9" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-9-2" cpuCons="70.0" memoryCons="256.0" powerCons="2.0" component="comp9" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-9-3" cpuCons="15.0" memoryCons="256.0" powerCons="18.0" component="comp9" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-9-4" cpuCons="72.0" memoryCons="148.0" powerCons="14.0" component="comp9" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-9-5" cpuCons="10.0" memoryCons="96.0" powerCons="14.0" component="comp9" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-9-6" cpuCons="10.0" memoryCons="148.0" powerCons="18.0" component="comp9" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-9-7" cpuCons="90.0" memoryCons="168.0" powerCons="2.0" component="comp9" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-9-8" cpuCons="20.0" memoryCons="64.0" powerCons="14.0" component="comp9" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-9-9" cpuCons="72.0" memoryCons="64.0" powerCons="10.0" component="comp9" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-9-10" cpuCons="72.0" memoryCons="128.0" powerCons="3.0" component="comp9" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-9-11" cpuCons="50.0" memoryCons="48.0" powerCons="2.0" component="comp9" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-9-12" cpuCons="90.0" memoryCons="32.0" powerCons="3.0" component="comp9" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-9-13" cpuCons="20.0" memoryCons="48.0" powerCons="8.0" component="comp9" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-9-14" cpuCons="90.0" memoryCons="64.0" powerCons="2.0" component="comp9" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-9-15" cpuCons="30.0" memoryCons="64.0" powerCons="2.0" component="comp9" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-10-0" cpuCons="55.0" memoryCons="32.0" powerCons="6.0" component="comp10" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-10-1" cpuCons="20.0" memoryCons="148.0" powerCons="4.0" component="comp10" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-10-2" cpuCons="40.0" memoryCons="256.0" powerCons="18.0" component="comp10" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-10-3" cpuCons="50.0" memoryCons="64.0" powerCons="2.0" component="comp10" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-10-4" cpuCons="55.0" memoryCons="148.0" powerCons="4.0" component="comp10" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-10-5" cpuCons="40.0" memoryCons="64.0" powerCons="4.0" component="comp10" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-10-6" cpuCons="20.0" memoryCons="128.0" powerCons="6.0" component="comp10" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-10-7" cpuCons="90.0" memoryCons="32.0" powerCons="2.0" component="comp10" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-10-8" cpuCons="90.0" memoryCons="96.0" powerCons="10.0" component="comp10" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-10-9" cpuCons="72.0" memoryCons="48.0" powerCons="2.0" component="comp10" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-10-10" cpuCons="72.0" memoryCons="168.0" powerCons="11.0" component="comp10" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-10-11" cpuCons="33.0" memoryCons="256.0" powerCons="2.0" component="comp10" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-10-12" cpuCons="10.0" memoryCons="128.0" powerCons="18.0" component="comp10" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-10-13" cpuCons="50.0" memoryCons="64.0" powerCons="14.0" component="comp10" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-10-14" cpuCons="70.0" memoryCons="64.0" powerCons="10.0" component="comp10" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-10-15" cpuCons="10.0" memoryCons="48.0" powerCons="4.0" component="comp10" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-11-0" cpuCons="55.0" memoryCons="32.0" powerCons="6.0" component="comp11" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-11-1" cpuCons="20.0" memoryCons="148.0" powerCons="4.0" component="comp11" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-11-2" cpuCons="40.0" memoryCons="256.0" powerCons="18.0" component="comp11" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-11-3" cpuCons="50.0" memoryCons="64.0" powerCons="2.0" component="comp11" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-11-4" cpuCons="55.0" memoryCons="148.0" powerCons="4.0" component="comp11" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-11-5" cpuCons="40.0" memoryCons="64.0" powerCons="4.0" component="comp11" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-11-6" cpuCons="20.0" memoryCons="128.0" powerCons="6.0" component="comp11" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-11-7" cpuCons="90.0" memoryCons="32.0" powerCons="2.0" component="comp11" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-11-8" cpuCons="90.0" memoryCons="96.0" powerCons="10.0" component="comp11" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-11-9" cpuCons="72.0" memoryCons="48.0" powerCons="2.0" component="comp11" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-11-10" cpuCons="72.0" memoryCons="168.0" powerCons="11.0" component="comp11" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-11-11" cpuCons="33.0" memoryCons="256.0" powerCons="2.0" component="comp11" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-11-12" cpuCons="10.0" memoryCons="128.0" powerCons="18.0" component="comp11" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-11-13" cpuCons="50.0" memoryCons="64.0" powerCons="14.0" component="comp11" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-11-14" cpuCons="70.0" memoryCons="64.0" powerCons="10.0" component="comp11" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-11-15" cpuCons="10.0" memoryCons="48.0" powerCons="4.0" component="comp11" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-12-0" cpuCons="40.0" memoryCons="64.0" powerCons="2.0" component="comp12" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-12-1" cpuCons="72.0" memoryCons="96.0" powerCons="4.0" component="comp12" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-12-2" cpuCons="72.0" memoryCons="32.0" powerCons="3.0" component="comp12" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-12-3" cpuCons="90.0" memoryCons="148.0" powerCons="4.0" component="comp12" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-12-4" cpuCons="33.0" memoryCons="148.0" powerCons="7.0" component="comp12" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-12-5" cpuCons="20.0" memoryCons="48.0" powerCons="10.0" component="comp12" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-12-6" cpuCons="20.0" memoryCons="32.0" powerCons="18.0" component="comp12" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-12-7" cpuCons="40.0" memoryCons="256.0" powerCons="8.0" component="comp12" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-12-8" cpuCons="10.0" memoryCons="128.0" powerCons="6.0" component="comp12" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-12-9" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp12" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-12-10" cpuCons="40.0" memoryCons="48.0" powerCons="8.0" component="comp12" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-12-11" cpuCons="90.0" memoryCons="168.0" powerCons="10.0" component="comp12" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-12-12" cpuCons="15.0" memoryCons="168.0" powerCons="4.0" component="comp12" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-12-13" cpuCons="20.0" memoryCons="128.0" powerCons="2.0" component="comp12" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-12-14" cpuCons="40.0" memoryCons="32.0" powerCons="14.0" component="comp12" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-12-15" cpuCons="20.0" memoryCons="64.0" powerCons="10.0" component="comp12" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-13-0" cpuCons="40.0" memoryCons="64.0" powerCons="2.0" component="comp13" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-13-1" cpuCons="72.0" memoryCons="96.0" powerCons="4.0" component="comp13" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-13-2" cpuCons="72.0" memoryCons="32.0" powerCons="3.0" component="comp13" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-13-3" cpuCons="90.0" memoryCons="148.0" powerCons="4.0" component="comp13" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-13-4" cpuCons="33.0" memoryCons="148.0" powerCons="7.0" component="comp13" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-13-5" cpuCons="20.0" memoryCons="48.0" powerCons="10.0" component="comp13" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-13-6" cpuCons="20.0" memoryCons="32.0" powerCons="18.0" component="comp13" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-13-7" cpuCons="40.0" memoryCons="256.0" powerCons="8.0" component="comp13" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-13-8" cpuCons="10.0" memoryCons="128.0" powerCons="6.0" component="comp13" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-13-9" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp13" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-13-10" cpuCons="40.0" memoryCons="48.0" powerCons="8.0" component="comp13" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-13-11" cpuCons="90.0" memoryCons="168.0" powerCons="10.0" component="comp13" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-13-12" cpuCons="15.0" memoryCons="168.0" powerCons="4.0" component="comp13" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-13-13" cpuCons="20.0" memoryCons="128.0" powerCons="2.0" component="comp13" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-13-14" cpuCons="40.0" memoryCons="32.0" powerCons="14.0" component="comp13" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-13-15" cpuCons="20.0" memoryCons="64.0" powerCons="10.0" component="comp13" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-14-0" cpuCons="15.0" memoryCons="168.0" powerCons="11.0" component="comp14" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-14-1" cpuCons="90.0" memoryCons="48.0" powerCons="7.0" component="comp14" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-14-2" cpuCons="20.0" memoryCons="168.0" powerCons="2.0" component="comp14" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-14-3" cpuCons="40.0" memoryCons="168.0" powerCons="14.0" component="comp14" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-14-4" cpuCons="20.0" memoryCons="148.0" powerCons="11.0" component="comp14" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-14-5" cpuCons="72.0" memoryCons="64.0" powerCons="4.0" component="comp14" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-14-6" cpuCons="15.0" memoryCons="256.0" powerCons="14.0" component="comp14" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-14-7" cpuCons="15.0" memoryCons="128.0" powerCons="4.0" component="comp14" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-14-8" cpuCons="10.0" memoryCons="256.0" powerCons="8.0" component="comp14" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-14-9" cpuCons="55.0" memoryCons="148.0" powerCons="18.0" component="comp14" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-14-10" cpuCons="15.0" memoryCons="64.0" powerCons="8.0" component="comp14" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-14-11" cpuCons="20.0" memoryCons="128.0" powerCons="18.0" component="comp14" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-14-12" cpuCons="72.0" memoryCons="48.0" powerCons="18.0" component="comp14" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-14-13" cpuCons="72.0" memoryCons="168.0" powerCons="2.0" component="comp14" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-14-14" cpuCons="50.0" memoryCons="48.0" powerCons="18.0" component="comp14" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-14-15" cpuCons="15.0" memoryCons="148.0" powerCons="2.0" component="comp14" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-15-0" cpuCons="15.0" memoryCons="168.0" powerCons="11.0" component="comp15" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-15-1" cpuCons="90.0" memoryCons="48.0" powerCons="7.0" component="comp15" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-15-2" cpuCons="20.0" memoryCons="168.0" powerCons="2.0" component="comp15" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-15-3" cpuCons="40.0" memoryCons="168.0" powerCons="14.0" component="comp15" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-15-4" cpuCons="20.0" memoryCons="148.0" powerCons="11.0" component="comp15" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-15-5" cpuCons="72.0" memoryCons="64.0" powerCons="4.0" component="comp15" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-15-6" cpuCons="15.0" memoryCons="256.0" powerCons="14.0" component="comp15" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-15-7" cpuCons="15.0" memoryCons="128.0" powerCons="4.0" component="comp15" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-15-8" cpuCons="10.0" memoryCons="256.0" powerCons="8.0" component="comp15" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-15-9" cpuCons="55.0" memoryCons="148.0" powerCons="18.0" component="comp15" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-15-10" cpuCons="15.0" memoryCons="64.0" powerCons="8.0" component="comp15" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-15-11" cpuCons="20.0" memoryCons="128.0" powerCons="18.0" component="comp15" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-15-12" cpuCons="72.0" memoryCons="48.0" powerCons="18.0" component="comp15" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-15-13" cpuCons="72.0" memoryCons="168.0" powerCons="2.0" component="comp15" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-15-14" cpuCons="50.0" memoryCons="48.0" powerCons="18.0" component="comp15" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-15-15" cpuCons="15.0" memoryCons="148.0" powerCons="2.0" component="comp15" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-16-0" cpuCons="20.0" memoryCons="48.0" powerCons="4.0" component="comp16" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-16-1" cpuCons="10.0" memoryCons="96.0" powerCons="4.0" component="comp16" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-16-2" cpuCons="10.0" memoryCons="168.0" powerCons="10.0" component="comp16" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-16-3" cpuCons="10.0" memoryCons="64.0" powerCons="10.0" component="comp16" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-16-4" cpuCons="10.0" memoryCons="48.0" powerCons="4.0" component="comp16" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-16-5" cpuCons="10.0" memoryCons="168.0" powerCons="3.0" component="comp16" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-16-6" cpuCons="20.0" memoryCons="96.0" powerCons="2.0" component="comp16" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-16-7" cpuCons="50.0" memoryCons="256.0" powerCons="8.0" component="comp16" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-16-8" cpuCons="40.0" memoryCons="256.0" powerCons="2.0" component="comp16" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-16-9" cpuCons="20.0" memoryCons="168.0" powerCons="3.0" component="comp16" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-16-10" cpuCons="10.0" memoryCons="168.0" powerCons="2.0" component="comp16" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-16-11" cpuCons="20.0" memoryCons="148.0" powerCons="4.0" component="comp16" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-16-12" cpuCons="70.0" memoryCons="128.0" powerCons="4.0" component="comp16" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-16-13" cpuCons="10.0" memoryCons="148.0" powerCons="8.0" component="comp16" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-16-14" cpuCons="10.0" memoryCons="96.0" powerCons="14.0" component="comp16" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-16-15" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp16" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-17-0" cpuCons="20.0" memoryCons="48.0" powerCons="4.0" component="comp17" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-17-1" cpuCons="10.0" memoryCons="96.0" powerCons="4.0" component="comp17" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-17-2" cpuCons="10.0" memoryCons="168.0" powerCons="10.0" component="comp17" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-17-3" cpuCons="10.0" memoryCons="64.0" powerCons="10.0" component="comp17" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-17-4" cpuCons="10.0" memoryCons="48.0" powerCons="4.0" component="comp17" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-17-5" cpuCons="10.0" memoryCons="168.0" powerCons="3.0" component="comp17" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-17-6" cpuCons="20.0" memoryCons="96.0" powerCons="2.0" component="comp17" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-17-7" cpuCons="50.0" memoryCons="256.0" powerCons="8.0" component="comp17" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-17-8" cpuCons="40.0" memoryCons="256.0" powerCons="2.0" component="comp17" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-17-9" cpuCons="20.0" memoryCons="168.0" powerCons="3.0" component="comp17" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-17-10" cpuCons="10.0" memoryCons="168.0" powerCons="2.0" component="comp17" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-17-11" cpuCons="20.0" memoryCons="148.0" powerCons="4.0" component="comp17" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-17-12" cpuCons="70.0" memoryCons="128.0" powerCons="4.0" component="comp17" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-17-13" cpuCons="10.0" memoryCons="148.0" powerCons="8.0" component="comp17" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-17-14" cpuCons="10.0" memoryCons="96.0" powerCons="14.0" component="comp17" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-17-15" cpuCons="20.0" memoryCons="64.0" powerCons="4.0" component="comp17" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-18-0" cpuCons="90.0" memoryCons="256.0" powerCons="8.0" component="comp18" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-18-1" cpuCons="20.0" memoryCons="64.0" powerCons="18.0" component="comp18" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-18-2" cpuCons="30.0" memoryCons="256.0" powerCons="3.0" component="comp18" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-18-3" cpuCons="10.0" memoryCons="48.0" powerCons="4.0" component="comp18" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-18-4" cpuCons="20.0" memoryCons="168.0" powerCons="2.0" component="comp18" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-18-5" cpuCons="70.0" memoryCons="168.0" powerCons="2.0" component="comp18" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-18-6" cpuCons="90.0" memoryCons="64.0" powerCons="2.0" component="comp18" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-18-7" cpuCons="50.0" memoryCons="128.0" powerCons="14.0" component="comp18" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-18-8" cpuCons="70.0" memoryCons="168.0" powerCons="14.0" component="comp18" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-18-9" cpuCons="10.0" memoryCons="168.0" powerCons="3.0" component="comp18" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-18-10" cpuCons="30.0" memoryCons="96.0" powerCons="11.0" component="comp18" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-18-11" cpuCons="20.0" memoryCons="256.0" powerCons="2.0" component="comp18" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-18-12" cpuCons="50.0" memoryCons="168.0" powerCons="8.0" component="comp18" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-18-13" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp18" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-18-14" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp18" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-18-15" cpuCons="55.0" memoryCons="148.0" powerCons="11.0" component="comp18" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-19-0" cpuCons="90.0" memoryCons="256.0" powerCons="8.0" component="comp19" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-19-1" cpuCons="20.0" memoryCons="64.0" powerCons="18.0" component="comp19" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-19-2" cpuCons="30.0" memoryCons="256.0" powerCons="3.0" component="comp19" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-19-3" cpuCons="10.0" memoryCons="48.0" powerCons="4.0" component="comp19" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-19-4" cpuCons="20.0" memoryCons="168.0" powerCons="2.0" component="comp19" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-19-5" cpuCons="70.0" memoryCons="168.0" powerCons="2.0" component="comp19" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-19-6" cpuCons="90.0" memoryCons="64.0" powerCons="2.0" component="comp19" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-19-7" cpuCons="50.0" memoryCons="128.0" powerCons="14.0" component="comp19" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-19-8" cpuCons="70.0" memoryCons="168.0" powerCons="14.0" component="comp19" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-19-9" cpuCons="10.0" memoryCons="168.0" powerCons="3.0" component="comp19" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-19-10" cpuCons="30.0" memoryCons="96.0" powerCons="11.0" component="comp19" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-19-11" cpuCons="20.0" memoryCons="256.0" powerCons="2.0" component="comp19" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-19-12" cpuCons="50.0" memoryCons="168.0" powerCons="8.0" component="comp19" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-19-13" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp19" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-19-14" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp19" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-19-15" cpuCons="55.0" memoryCons="148.0" powerCons="11.0" component="comp19" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-20-0" cpuCons="72.0" memoryCons="168.0" powerCons="4.0" component="comp20" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-20-1" cpuCons="20.0" memoryCons="128.0" powerCons="11.0" component="comp20" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-20-2" cpuCons="10.0" memoryCons="256.0" powerCons="14.0" component="comp20" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-20-3" cpuCons="90.0" memoryCons="168.0" powerCons="4.0" component="comp20" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-20-4" cpuCons="50.0" memoryCons="64.0" powerCons="4.0" component="comp20" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-20-5" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp20" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-20-6" cpuCons="20.0" memoryCons="168.0" powerCons="2.0" component="comp20" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-20-7" cpuCons="20.0" memoryCons="64.0" powerCons="11.0" component="comp20" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-20-8" cpuCons="15.0" memoryCons="148.0" powerCons="4.0" component="comp20" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-20-9" cpuCons="10.0" memoryCons="128.0" powerCons="8.0" component="comp20" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-20-10" cpuCons="90.0" memoryCons="64.0" powerCons="4.0" component="comp20" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-20-11" cpuCons="50.0" memoryCons="256.0" powerCons="4.0" component="comp20" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-20-12" cpuCons="90.0" memoryCons="148.0" powerCons="2.0" component="comp20" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-20-13" cpuCons="40.0" memoryCons="148.0" powerCons="3.0" component="comp20" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-20-14" cpuCons="20.0" memoryCons="32.0" powerCons="10.0" component="comp20" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-20-15" cpuCons="20.0" memoryCons="168.0" powerCons="4.0" component="comp20" compUnit="compUnit15"/>
+  <resConsumptions xmi:id="resCon-21-0" cpuCons="72.0" memoryCons="168.0" powerCons="4.0" component="comp21" compUnit="compUnit0"/>
+  <resConsumptions xmi:id="resCon-21-1" cpuCons="20.0" memoryCons="128.0" powerCons="11.0" component="comp21" compUnit="compUnit1"/>
+  <resConsumptions xmi:id="resCon-21-2" cpuCons="10.0" memoryCons="256.0" powerCons="14.0" component="comp21" compUnit="compUnit2"/>
+  <resConsumptions xmi:id="resCon-21-3" cpuCons="90.0" memoryCons="168.0" powerCons="4.0" component="comp21" compUnit="compUnit3"/>
+  <resConsumptions xmi:id="resCon-21-4" cpuCons="50.0" memoryCons="64.0" powerCons="4.0" component="comp21" compUnit="compUnit4"/>
+  <resConsumptions xmi:id="resCon-21-5" cpuCons="10.0" memoryCons="256.0" powerCons="4.0" component="comp21" compUnit="compUnit5"/>
+  <resConsumptions xmi:id="resCon-21-6" cpuCons="20.0" memoryCons="168.0" powerCons="2.0" component="comp21" compUnit="compUnit6"/>
+  <resConsumptions xmi:id="resCon-21-7" cpuCons="20.0" memoryCons="64.0" powerCons="11.0" component="comp21" compUnit="compUnit7"/>
+  <resConsumptions xmi:id="resCon-21-8" cpuCons="15.0" memoryCons="148.0" powerCons="4.0" component="comp21" compUnit="compUnit8"/>
+  <resConsumptions xmi:id="resCon-21-9" cpuCons="10.0" memoryCons="128.0" powerCons="8.0" component="comp21" compUnit="compUnit9"/>
+  <resConsumptions xmi:id="resCon-21-10" cpuCons="90.0" memoryCons="64.0" powerCons="4.0" component="comp21" compUnit="compUnit10"/>
+  <resConsumptions xmi:id="resCon-21-11" cpuCons="50.0" memoryCons="256.0" powerCons="4.0" component="comp21" compUnit="compUnit11"/>
+  <resConsumptions xmi:id="resCon-21-12" cpuCons="90.0" memoryCons="148.0" powerCons="2.0" component="comp21" compUnit="compUnit12"/>
+  <resConsumptions xmi:id="resCon-21-13" cpuCons="40.0" memoryCons="148.0" powerCons="3.0" component="comp21" compUnit="compUnit13"/>
+  <resConsumptions xmi:id="resCon-21-14" cpuCons="20.0" memoryCons="32.0" powerCons="10.0" component="comp21" compUnit="compUnit14"/>
+  <resConsumptions xmi:id="resCon-21-15" cpuCons="20.0" memoryCons="168.0" powerCons="4.0" component="comp21" compUnit="compUnit15"/>
+</componentAllocation:AllocationProblem>
