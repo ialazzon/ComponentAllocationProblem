@@ -48,13 +48,15 @@ public class MainSolveAllocationProblem  {
 	int allocation[];
 
 	public void run() throws Exception {
-		String root = "C:/Users/issam/Desktop/eclipse/workspace/ComponentAllocationProblem/";
+		System.out.println();
+		String model = "System0.model";
 		
 		// Load the model using EMF
 		ResourceSet resourceSet = new ResourceSetImpl();
 		resourceSet.getPackageRegistry().put(ComponentAllocationPackage.eNS_URI, ComponentAllocationPackage.eINSTANCE);
 		resourceSet.getResourceFactoryRegistry().getExtensionToFactoryMap().put("*", new XMIResourceFactoryImpl());
-		Resource resource = resourceSet.createResource(URI.createFileURI(root + "System0.model"));
+		String loc = getClass().getResource("models/"+ model).getFile();
+		Resource resource = resourceSet.createResource(URI.createFileURI(loc));
 		resource.load(new HashMap<Object, Object>());
 		// Get hold of the root library object
 		ap = (AllocationProblem) resource.getContents().get(0);
